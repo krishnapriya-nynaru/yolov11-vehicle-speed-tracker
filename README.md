@@ -58,6 +58,20 @@ Run the script with Python
 ```bash
 python main.py
 ```
+`Note:`
+You can change the YOLOv11 model variant in config/settings.py to experiment with detection performance vs. speed.
+
+For Example:
+```bash
+# config/settings.py
+
+MODEL_PATH = "yolo11s.pt"  # Or "yolo11m.pt", "yolo11n.pt"
+```
+- yolo11n.pt – Fastest, least accurate
+- yolo11s.pt – Good balance
+- yolo11m.pt – More accurate, slower
+
+Try each and observe the trade-off between FPS and accuracy in your environment.
 
 ## Results
 
@@ -77,6 +91,6 @@ If you have any suggestions for improvements or features, feel free to open an i
 - [**YOLOv11 for object detection.**](https://github.com/ultralytics/yolov11)
 - [**ByteTracker for Multi object tracking.**](https://github.com/FoundationVision/ByteTrack)
 - [**OpenCV for computer vision functionalities.**](https://opencv.org/)
-- [**Supervision for computer vision functionalities.**](https://github.com/roboflow/supervision)
+- [**by Roboflow, for seamless computer vision annotation tools (bounding boxes, traces, and on-frame labels).**](https://github.com/roboflow/supervision)
 
 Happy coding!!
