@@ -75,7 +75,7 @@ Try each and observe the trade-off between FPS and accuracy in your environment.
 
 ## Results
 
-![alt_text](https://github.com/krishnapriya-nynaru/yolov11-vehicle-speed-tracker/blob/main/vehicle_speed_estimator/results/output.mp4)
+![alt_text](https://github.com/krishnapriya-nynaru/yolov11-vehicle-speed-tracker/blob/main/vehicle_speed_estimator/results/output.gif?raw=true)
 
 
 ## Contributing 
