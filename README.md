@@ -91,6 +91,6 @@ If you have any suggestions for improvements or features, feel free to open an i
 - [**YOLOv11 for object detection.**](https://github.com/ultralytics/yolov11)
 - [**ByteTracker for Multi object tracking.**](https://github.com/FoundationVision/ByteTrack)
 - [**OpenCV for computer vision functionalities.**](https://opencv.org/)
-- [**by Roboflow, for seamless computer vision annotation tools (bounding boxes, traces, and on-frame labels).**](https://github.com/roboflow/supervision)
+- [**Supervision by Roboflow, for seamless computer vision annotation tools (bounding boxes, traces, and on-frame labels).**](https://github.com/roboflow/supervision)
 
-Happy coding!!
+### 🎉 Happy coding!
